@@ -1,0 +1,14 @@
+#wpbody-content {
+    padding-bottom: 0;
+}
+#wpbody-content #iframe_dashboard {
+    width: 100%;
+    height: calc(100vh - 32px);
+}
+#wpcontent {
+    padding-left: 0;
+}
+#wpfooter {
+    display: none;
+}
+
